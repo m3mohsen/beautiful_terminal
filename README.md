@@ -1,5 +1,4 @@
-# beautiful_terminal
-Beautiful terminal in mac
+# Beautiful_terminal
 
 
 Follow the instructions here:
